@@ -1,0 +1,4 @@
+
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
+Create sweep with ID: xl8cvxnw
+Sweep URL: https://wandb.ai/space_monkeys/DL_Assignment_3/sweeps/xl8cvxnw

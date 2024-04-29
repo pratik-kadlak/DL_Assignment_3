@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-04-29T03:21:44.409388",
+    "startedAt": "2024-04-29T03:21:43.643111",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Pratik/IITM/SEM_2/Deep_Learning/Assignment_3/DL_Assignment_3/without_attention.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/pratikkadlak/Pratik/IITM/SEM_2/Deep_Learning/Assignment_3/DL_Assignment_3",
+    "git": {
+        "remote": "https://github.com/pratik-kadlak/DL_Assignment_3.git",
+        "commit": "2d64f6edc2c618ce74d6f28e9e6993848120b0f8"
+    },
+    "email": "141506069+pratik-kadlak@users.noreply.github.com",
+    "host": "Pratiks-MacBook-Air.local",
+    "username": "pratikkadlak",
+    "executable": "/Users/pratikkadlak/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 91.74870300292969
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
